@@ -3,14 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package id.co.indocyber.model;
+package id.co.indocyber.android;
 
 /**
  *
  * @author user
  */
-public class KelasC extends KelasB{
-    void printC(){
-        System.out.println("C");
-    }
+public class AndroidVersion {
+    
 }
