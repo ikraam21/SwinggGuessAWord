@@ -1,7 +1,7 @@
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * and open the template in the editor
  */
 package id.co.indocyber.view;
 
@@ -9,11 +9,11 @@ import id.co.indocyber.model.WordModel;
 import java.util.Arrays;
 import javax.swing.JOptionPane;
 /**
- *
  * @author user
  */
 public class GuessingGame extends javax.swing.JFrame {
     WordModel modelWorld;
+    //ini comment baru
 //String basicWord;
 //String[] bankSoal = {"Pondok Indah","Sudirman","Tugu Tani","Citos","Gandaria"};;
 WordModel soal1 = new WordModel("Pondok Indah","Daerah Jakarta Selatan");
